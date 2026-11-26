@@ -1,0 +1,22 @@
+Order_id,Customer_id,Date,Region,Product,Quantity,Transaction-type,Revenu_quality,Revenue
+O-201,C-01,02/02/2026,Lagos,Notebook,2,Sale,Recorded,10000
+O-202,C-02,02/04/2026,Abuja,Pen Pack,3,Sale,Recorded,6000
+O-203,C-03,02/07/2026,Lagos,Desk Lamp,1,Sale,Recorded,15000
+O-204,C-04,02/10/2026,Ibadan,Notebook,4,Sale,Recorded,20000
+O-205,C-01,02/12/2026,Lagos,Pen Pack,5,Sale,Recorded,10000
+O-206,C-02,02/15/2026,Abuja,Desk Lamp,1,,Missing,Null
+O-207,C-05,02/18/2026,Ibadan,Notebook,-1,Refund,Recorded,-5000
+O-208,C-03,02/21/2026,Lagos,Desk Lamp,2,Sale,Recorded,30000
+O-209,C-06,02/24/2026,Abuja,Notebook,1,Sale,Recorded,5000
+O-210,C-04,03/02/2026,Ibadan,Pen Pack,4,Sale,Recorded,8000
+O-211,C-05,03/05/2026,Lagos,Notebook,3,Sale,Recorded,15000
+O-212,C-06,03/08/2026,Abuja,Desk Lamp,1,Sale,Recorded,15000
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Recorded positive revenue,"134,000",,,,,,,
+Recorded refunds,-5000,,,,,,,
+Recorded net revenue,"129,000",,,,,,,
+Missing value count,1,,,,,,,
+Missing value ,Unknown and unrecorded,,,,,,,
